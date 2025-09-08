@@ -10,6 +10,8 @@
 }
 
 .searchbarTitle {
+  line-height: 1.2;
+  height: 3.6rem;
   font-style: italic;
   font-weight: 700;
   font-size: 3rem;
